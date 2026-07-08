@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-I am a 3rd-year **Computer Science student** specializing in **Software Engineering** at the Jan Dlugosz University in Czestochowa. 
+I am a final-year **Computer Science student** specializing in **Software Engineering** at the Jan Dlugosz University in Czestochowa. 
 
 🌐 **Looking for my projects & experience?** My complete professional journey, full commercial history, and featured projects are fully documented on my [Personal Portfolio Website](https://hynekzuzanna.dev).
 
